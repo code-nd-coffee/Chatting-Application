@@ -9,7 +9,7 @@ This project is a simple chat application that allows multiple clients to connec
 3. **Real-Time Communication:** Facilitates real-time text-based communication among users.
 
 ## Technologies Used
-- **Java:** Core language used for implementing server and client functionality.
+- **Java:** Core language used for implementing server and client functionality. 
 - **ServerSocket:** Used for handling multiple client connections and communication.
 
 ## Screenshots
