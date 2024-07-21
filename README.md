@@ -1,6 +1,6 @@
 # Chatting Application
 
-## Overview
+## Overview 
 This project is a simple chat application that allows multiple clients to connect to a central server and communicate with each other. Using `ServerSocket`, the application broadcasts messages received from one client to all connected clients, enabling real-time group communication.
 
 ## Features
